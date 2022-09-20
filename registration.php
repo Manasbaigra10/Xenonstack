@@ -43,8 +43,5 @@
         <input type="submit" name="submit" value="Register" class="login-button">
         <p class="link">Already have an account? <a href="login.php">Login here</a></p>
     </form>
-<?php
-    }
-?>
 </body>
 </html>
